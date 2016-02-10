@@ -1,0 +1,28 @@
+p {
+  padding: 25px;
+  margin: 25px 50px 25px 5px;
+}
+
+.important {
+  font-size: 64px;
+}
+.note {
+  border: solid 5px red;
+  background: pink;
+}
+
+li a {
+  color: "red";
+}
+
+
+body {
+  font-family: "Times New Roman";
+}
+
+img {
+  width: 300px;
+  height: 180;
+  box-shadow: 8px 8px 4px #AAA;
+  float: right;
+}
